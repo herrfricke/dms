@@ -1,0 +1,22 @@
+{
+  "name": "nodeDMS",
+  "description": "A system to develop, deploy, manage your site",
+  "author": "Chris Fricke <chris.fricke@gmail.com>",
+  "dependencies": {
+    "gulp": "3.5.x"
+  },
+  "devDependencies": {
+    "vows": "0.5.x",
+    "gulp": "^3.5.6",
+    "gulp-jshint": "^1.5.1",
+    "gulp-changed": "^0.2.1",
+    "gulp-imagemin": "^0.1.5",
+    "gulp-minify-html": "^0.1.1",
+    "zone": "0.0.0",
+    "gulp-concat": "^2.2.0",
+    "gulp-strip-debug": "^0.3.0",
+    "gulp-uglify": "^0.2.1",
+    "gulp-browserify": "^0.5.0"
+  },
+  "engine": "node >= 0.11.12"
+}
